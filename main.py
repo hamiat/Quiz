@@ -25,18 +25,5 @@ def main():
 
     pygame.quit()
 
-
-def end_game():
-    pass
-
-def correct_answer():
-    pass
-
-def on_mouse_down(pos):
-    pass
-
-def update_time_left():
-    pass
-
 if __name__ == "__main__":
     main()
